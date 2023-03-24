@@ -10,5 +10,8 @@
     "javaScript"
   ],
   "author": "Guillermo Izalde izalde.guillermo45@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
